@@ -15,7 +15,7 @@ MicMute is designed for users who need instant, convenient control over their mi
 
 ### 🎤 Audio Management
 - Select from available microphone devices
-- One-click mute/unmute functionality
+- Mute/unmute using keyboard shortcuts
 - Optional system sound effects on mute/unmute actions
 - Real-time microphone status indication
 
@@ -44,10 +44,10 @@ MicMute is designed for users who need instant, convenient control over their mi
 
 ## Installation
 
-1. Download the latest `MicMuteInstaller.msi` from releases
-2. Run the installer as administrator
+1. Download the latest `MicMuteSetup.exe` from releases
+2. Run the installer
 3. Choose installation options (shortcuts, auto-launch)
-4. Application starts automatically after installation
+4. Run the application
 
 ## System Requirements
 
@@ -61,14 +61,14 @@ MicMute is designed for users who need instant, convenient control over their mi
 ### First Time Setup
 1. Launch MicMute (or find it in system tray)
 2. Select your microphone device from dropdown
-3. Configure global hotkeys if desired
+3. Configure global hotkeys or key combinations to your liking
 4. Set startup preferences
 5. Minimize to tray
 
 ### Daily Use
-- **Mute/Unmute**: Use configured hotkeys or click tray icon
+- **Mute/Unmute**: Use configured hotkeys
 - **Settings**: Double-click tray icon or right-click → Settings
-- **Status Check**: Tray icon shows current mute state (red = muted, green = unmuted)
+- **Status Check**: Tray icon shows current mute state (red = muted, white = unmuted)
 
 ## Privacy & Security
 
